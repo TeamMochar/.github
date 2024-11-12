@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+**We are all about code struggling and disordering**
 <!--
 
 **Here are some ideas to get you started:**
